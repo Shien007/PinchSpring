@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinchSpring", "PinchSpring\PinchSpring\PinchSpring.csproj", "{3A7B9221-D88D-4FCF-B26E-C31BFAF3244B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PinchSpringContent", "PinchSpring\PinchSpringContent\PinchSpringContent.contentproj", "{81D461A0-7157-4047-9DF4-6D757E1CF3D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{70D7DE02-0C80-4DD5-9503-0DBAB4DBDB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A7B9221-D88D-4FCF-B26E-C31BFAF3244B}.Debug|x86.ActiveCfg = Debug|x86
+		{3A7B9221-D88D-4FCF-B26E-C31BFAF3244B}.Debug|x86.Build.0 = Debug|x86
+		{3A7B9221-D88D-4FCF-B26E-C31BFAF3244B}.Release|x86.ActiveCfg = Release|x86
+		{3A7B9221-D88D-4FCF-B26E-C31BFAF3244B}.Release|x86.Build.0 = Release|x86
+		{81D461A0-7157-4047-9DF4-6D757E1CF3D8}.Debug|x86.ActiveCfg = Debug|x86
+		{81D461A0-7157-4047-9DF4-6D757E1CF3D8}.Release|x86.ActiveCfg = Release|x86
+		{70D7DE02-0C80-4DD5-9503-0DBAB4DBDB44}.Debug|x86.ActiveCfg = Debug|x86
+		{70D7DE02-0C80-4DD5-9503-0DBAB4DBDB44}.Debug|x86.Build.0 = Debug|x86
+		{70D7DE02-0C80-4DD5-9503-0DBAB4DBDB44}.Release|x86.ActiveCfg = Release|x86
+		{70D7DE02-0C80-4DD5-9503-0DBAB4DBDB44}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+D:\チームワーク\TokyoGameShowTeamWork\trunk\PinchSpring\PinchSpring\PinchSpringContent\obj\x86\Debug\PinchSpringContent.contentprojResolveAssemblyReference.cache
+D:\ProjectForWork\PinchSpring(C#)\PinchSpring\PinchSpringContent\obj\x86\Debug\PinchSpringContent.contentprojResolveAssemblyReference.cache
+D:\ProjectForWork\個人制作\PinchSpring(C#)\PinchSpring\PinchSpringContent\obj\x86\Debug\PinchSpringContent.contentprojResolveAssemblyReference.cache
+D:\ProjectForWork\個人制作\PinchSpring(C#)\プロジェクト一式\PinchSpring\PinchSpringContent\obj\x86\Debug\PinchSpringContent.contentprojResolveAssemblyReference.cache
